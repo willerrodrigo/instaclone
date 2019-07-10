@@ -6,6 +6,6 @@
 - Node
 - JavaScript
 - Express
-- Yarn
+- Npm
 - React
 - React Native
